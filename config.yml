@@ -1,0 +1,80 @@
+# Here you can edit the names of the items:
+Names_Items:
+  StoneGenerator: "&8>> &eStoneGenerator &8<<"
+  BoyFarmer: "&8>> &dBoyFarmer &8<<"
+  SandFarmer: "&8>> &bSandFarmer &8<<"
+  AutoMeat: "&8>> &7AutoMeat &8<<"
+  EnderChest: "&8>> &5EnderChest &8<<"
+  CastTnT: "&8>> &cGranate &8<<"
+  
+# Here you can edit the crafting of a given item:
+# Immediately informs that each number must have an item assigned because there may be a probability that it will be an error and will not work as it should...
+Crafting:
+  StoneGenerator:
+    item:
+      0: "STONE"
+      1: "REDSTONE"
+      2: "STONE"
+      3: "REDSTONE"
+      4: "DIAMOND"
+      5: "REDSTONE"
+      6: "STONE"
+      7: "REDSTONE"
+      8: "STONE"
+  BoyFarmer:
+    item:
+      0: "OBSIDIAN"
+      1: "OBSIDIAN"
+      2: "OBSIDIAN"
+      3: "OBSIDIAN"
+      4: "EMERALD"
+      5: "OBSIDIAN"
+      6: "OBSIDIAN"
+      7: "OBSIDIAN"
+      8: "OBSIDIAN"
+  SandFarmer:
+    item:
+      0: "SAND"
+      1: "SAND"
+      2: "SAND"
+      3: "SAND"
+      4: "ENDER_PEARL"
+      5: "SAND"
+      6: "SAND"
+      7: "SAND"
+      8: "SAND"
+  AutoMeat:
+    item:
+      0: "STONE"
+      1: "STONE"
+      2: "STONE"
+      3: "STONE"
+      4: "ENDER_PEARL"
+      5: "STONE"
+      6: "STONE"
+      7: "STONE"
+      8: "STONE"
+  EnderChest:
+    item:
+      0: "OBSIDIAN"
+      1: "OBSIDIAN"
+      2: "OBSIDIAN"
+      3: "OBSIDIAN"
+      4: "ENDER_PEARL"
+      5: "OBSIDIAN"
+      6: "OBSIDIAN"
+      7: "OBSIDIAN"
+      8: "OBSIDIAN"
+  CastTnT:
+    item:
+      0: "TNT"
+      1: "SAND"
+      2: "TNT"
+      3: "BEACON"
+      4: "LEVER"
+      5: "BEACON"
+      6: "TNT"
+      7: "SAND"
+      8: "TNT"
+      
+  
